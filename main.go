@@ -15,5 +15,6 @@ func main() {
 	practices.PointerMain()
 	message("string main")
 	practices.StringMain()
+	practices.JsonHashDemo()
 
 }

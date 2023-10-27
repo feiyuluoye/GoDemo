@@ -1,0 +1,3 @@
+package config
+
+var INFLUXDB_TOKEN = "_LEWKjfrhrWlP8in3NvWYqCpk8qbrxE7BKjGhHydRDxF9NLephUOhfgdkDGUKCqhvNl2FaskUAK_EbMjgtvrcw=="
